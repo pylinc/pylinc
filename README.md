@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Rathore</h1>
 <h3 align="center">4th Year Computer Science Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pylinc" alt="pylinc" /></a> </p>
 
 - 🌱 I’m currently learning **Devops, Java Development**
 
