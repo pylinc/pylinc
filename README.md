@@ -21,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pylinc&show_icons=true&locale=en" alt="pylinc" /></p>
 
 <img src="https://raw.githubusercontent.com/pylinc/pylinc/output/snake.svg" alt="Snake animation" />
+
